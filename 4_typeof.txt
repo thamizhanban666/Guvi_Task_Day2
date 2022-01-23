@@ -1,0 +1,9 @@
+a. console.log(typeof(1))         is a number like 
+b. console.log(typeof(1.1))       is a number in javascript eventhough it is a float in other languages like c++
+c. console.log(typeof('1.1'))     is a string because 1.1 is within the quotes '' .
+d. console.log(typeof(true))      is a boolean because true or false will be considered as a boolean.
+e. console.log(typeof(null))      is an object in javascript.
+f. console.log(typeof(undefined)) is a undefined because it is predefined inside the js.
+g. console.log(typeof([]))        is a object because every array will be considered as an object type in js.
+h. console.log(typeof({}))        is a object because the syntax for an object is curly braces {}.
+i. console.log(typeof(NaN))       is a number because it is predefined inside the js.
